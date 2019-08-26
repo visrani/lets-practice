@@ -1,0 +1,12 @@
+<html>
+<div>
+<table style="background-color:lightblue;">
+<tr style="background-color:blue;color:white;">
+<th>Component</th><th>Status</th>
+</tr>
+<tr>
+<td>US Mortgages Build</td><td style="background-color:red;">Fail</td>
+</tr>
+</table>
+</div>
+</html>
